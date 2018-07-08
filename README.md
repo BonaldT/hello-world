@@ -1,2 +1,2 @@
 # hello-world
-My spot for learning how to use GitHub
+I'm learning Python with Hear Me Code.
